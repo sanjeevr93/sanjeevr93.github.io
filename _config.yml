@@ -7,9 +7,6 @@ title: FIU ISRG
 email: aa@cis.fiu.edu
 author: Alex Afanasyev
 
-# colorize code snippets with the pygments module
-highlighter: pygments
-
 
 description: > # "Write an awesome description for your new site here. 
   This is the official page of the Internet Security Research Group
