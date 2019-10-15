@@ -1,0 +1,8 @@
+---
+layout: default
+img: icear.png
+category: Projects
+title: ICN-Enabled Secure Edge Networking with Augmented Reality (ICE-AR)
+description: |
+---
+  <p>Technological advances have moved society into an exciting era of mobile computing. Our daily lives can be further enriched by a new generation of mobile applications, such as augmented reality (AR) which broadens one’s real-world perception by harmonizing sound, image, video, and sensors from multiple sources to aid comprehension and navigation. However, today’s Internet operates with the address-based TCP/IP protocol architecture developed 40 years ago, which greatly limits the full promises of these new applications. Thus, current AR implementations face challenges in performance, scalability and availability upon disasters. This proposed research project <a href="http://ice-ar.named-data.net/http://ice-ar.named-data.net/">ICE-AR</a> aims to develop a new wireless network architecture to address these limitations and provide pervasive support for these emerging applications.</p>

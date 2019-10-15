@@ -1,0 +1,41 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+name: FIU - ISRG
+url: http://isrg.fiu.edu
+title: FIU ISRG
+email: aa@cis.fiu.edu
+author: Alex Afanasyev
+
+# colorize code snippets with the pygments module
+highlighter: pygments
+
+
+description: > # "Write an awesome description for your new site here. 
+  This is the official page of the Internet Security Research Group
+  (ISRG) in Florida International University (FIU).
+
+  Merit Lab in Parking Garage 6 - Tech station is where we do all the
+  cutting edge research and innovation.
+  
+copyright: 'Copyright &copy; 2019-2020 FIU ISRG. All Rights Reserved.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/thecawka
+  - title: github
+    url: https://gitlab.com/FIU_ISRG
+  # - title: linkedin
+  #   url: 

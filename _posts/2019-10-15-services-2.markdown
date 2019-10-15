@@ -1,0 +1,8 @@
+---
+layout: default
+img: ndn.png
+category: Projects
+title: Building the Core NDN Infrastructure to Advance Information-Centric Networking Research
+description: |
+---
+  <a href="https://named-data.net/">Named Data Networking</a> project aims to build the core infrastructure to support the evaluation, experimentation, and further development of the Named Data Networking (NDN) architecture as a community resource, serving to advance researches in the Information-Centric Networking (ICN) paradigm.

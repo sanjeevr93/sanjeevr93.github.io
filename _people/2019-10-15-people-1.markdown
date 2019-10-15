@@ -1,0 +1,8 @@
+---
+layout: default
+img: alex.jpg
+category: People
+title: Professor <br> <br> Alexander Afanasyev Ph.D.
+description: |
+---
+Dr. Afanasyev is an Assistant Professor in the School of Computing and Information Sciences in Florida International University. My main research focus is on the next generation Internet architecture as part of the Named Data Networking (NDN) project; and my research interests include a variety of topics that are vital for the success of NDN, including scalability of name-based routing, auto-configuration, distributed data synchronization, application and network security. I’m also leading the development effort of the overall NDN codebase.

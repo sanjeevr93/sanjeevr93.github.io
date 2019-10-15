@@ -1,0 +1,8 @@
+---
+layout: default
+img: v2v.jpg
+category: Projects
+title: V2V Direct communication
+description: |
+---
+We explore the prospects of using NDN in union with the LTE D2D communication. 
